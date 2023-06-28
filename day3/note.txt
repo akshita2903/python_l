@@ -1,2 +1,7 @@
 List :- Container for stroing values of any data type .
-It is Ordered
+It is Ordered,can be updated
+list=[a,b,c,d,e]
+
+
+Tuple :=(a,b,c,d)
+can not be updated
