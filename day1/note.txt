@@ -1,0 +1,7 @@
+modules - file containing code written by someone else
+
+pip -: package manager of python.Comes by default when installing python
+on windows and linux machines, but not macos (you need to install it manually)
+How to install package?
+Ways 1: pip install package name
+     2: use py -m pip install
