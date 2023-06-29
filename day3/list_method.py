@@ -24,4 +24,6 @@ list1.pop()
 print(list1,len(list1))
 
 #list.remove(element) removes element and not from index
+list1[0]=5
+print(list1)
 
