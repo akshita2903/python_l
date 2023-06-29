@@ -1,0 +1,2 @@
+Collection of non repetitive item,unordered,immutable
+You cannot add list,dictionary in set coz they are mutable

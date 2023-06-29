@@ -1,0 +1,2 @@
+dict={key:value}  key can be anything,value can be anything
+Unordered,mutable
